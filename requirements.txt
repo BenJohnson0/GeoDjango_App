@@ -1,0 +1,8 @@
+asgiref @ file:///home/conda/feedstock_root/build_artifacts/asgiref_1685243452975/work
+Django @ file:///home/conda/feedstock_root/build_artifacts/django_1696523235836/work
+psycopg==3.1.12
+psycopg2==2.9.9
+sqlparse @ file:///home/conda/feedstock_root/build_artifacts/sqlparse_1681817562700/work
+typing_extensions @ file:///home/conda/feedstock_root/build_artifacts/typing_extensions_1695040754690/work
+tzdata==2023.3
+whitenoise==6.5.0
